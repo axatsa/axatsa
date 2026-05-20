@@ -73,10 +73,10 @@ I specialize in **Python backend development** — from Telegram bots to REST AP
 ## 📫 Contact
 
 <p>
-  <a href="mailto:salamovakhat130@gmail.com">
+  <a href="mailto:salamovakhat@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://t.me/axatsa">
+  <a href="https://t.me/bembw">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
