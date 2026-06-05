@@ -13,12 +13,11 @@
 ## 👨‍💻 About Me
 
 I'm a **2nd year CS student** at Bucheon IT Faculty (Tashkent) who builds real-world projects while studying.
-I specialize in **Python backend development** — from Telegram bots to REST APIs and full-stack web apps.
+I specialize in **Python backend development** — from Telegram bots to REST APIs
 
 - 🤖 Building Telegram bots for businesses (delivery, auctions, AI assistants, events)
 - 🌐 Developing web backends with **FastAPI** and **Django**
-- 📱 Creating full-stack apps with **TypeScript / React**
-- 🔍 Currently looking for my first job or freelance collaboration
+
 
 ---
 
@@ -30,12 +29,6 @@ I specialize in **Python backend development** — from Telegram bots to REST AP
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-
-**Frontend & Fullstack**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 **Tools & Integrations**
 
